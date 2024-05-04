@@ -25,4 +25,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: ghcr.io/schwarztrinker/discord-voice-logger:latest
+        tags: ghcr.io/schwarztrinker/discord-voice-logger/bot:latest
