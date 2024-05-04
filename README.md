@@ -8,7 +8,6 @@ docker run  -e CHANNEL_ID=123367811573416XXXX -e BOT_TOKEN=MTIzNjAyNTUyMzgzMDc4X
 
 ## Needed Environment Variables
 
-CHANNEL_ID: Channel ID where the Bot logs the notifications
-VOICE_CHANNEL_ID: Channel ID where join actions should be logged for
-
-BOT_TOKEN: Discord Bot Token to authenticate application
+- CHANNEL_ID: Channel ID where the Bot logs the notifications
+- VOICE_CHANNEL_ID: Channel ID where join actions should be logged for
+- BOT_TOKEN: Discord Bot Token to authenticate application
