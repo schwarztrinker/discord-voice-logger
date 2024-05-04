@@ -54,7 +54,7 @@ spec:
           valueFrom:
             secretKeyRef:
               name: discord-bot-secrets
-              key: VOICE_CHANNEL_IDs
+              key: VOICE_CHANNEL_ID
 ```
 
 ## Needed Environment Variables
